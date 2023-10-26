@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="/profile/logo-wide.jpg" alt="CoCoders Logo Wide" width="250" height="100">
+  <img src="/profile/logo-wide.jpg" alt="CoCoderz Logo Wide" width="250" height="100">
 </p>
 
-# Welcome to CoCoders GitHub Organization
+# Welcome to CoCoderz GitHub Organization
 
-[![GitHub stars](https://img.shields.io/github/stars/CoCoders?style=social)](https://github.com/cocoderz/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/CoCoderz?style=social)](https://github.com/cocoderz/stargazers)
 
-CoCoders is a passionate community of coders dedicated to learning, creating, and contributing to open source projects and startups. We believe in collaboration, inclusivity, continuous learning, fun, and personal development.
+CoCoderz is a passionate community of coders dedicated to learning, creating, and contributing to open source projects and startups. We believe in collaboration, inclusivity, continuous learning, fun, and personal development.
 
-🌐 **[Website](https://www.cocoders.com)**
-🔗 **[Important Links](https://www.cocoders.com/linkinbio)**
+🌐 **[Website](https://www.cocoderz.com)**
+🔗 **[Important Links](https://www.cocoderz.com/linkinbio)**
 
 ## Join Us
 
-🚀 To become a part of our community, visit our [website](https://www.cocoders.com/join) and complete the membership tasks to demonstrate your commitment to learning and contributing.
+🚀 To become a part of our community, visit our [website](https://www.cocoderz.com/join) and complete the membership tasks to demonstrate your commitment to learning and contributing.
 
 ## Our Activities
 
@@ -29,17 +29,17 @@ CoCoders is a passionate community of coders dedicated to learning, creating, an
 
 ## Get Involved
 
-📅 Check our [event calendar](https://www.cocoders.com/events) for upcoming meetups, workshops, coding competitions, and personal development activities.
+📅 Check our [event calendar](https://www.cocoderz.com/events) for upcoming meetups, workshops, coding competitions, and personal development activities.
 
-🤝 Meet our community leaders who guide and support CoCoders. Contact them for any questions or suggestions.
+🤝 Meet our community leaders who guide and support CoCoderz. Contact them for any questions or suggestions.
 
 ## Contact Us
 
-📧 For support or feedback, contact us at support@cocoders.com.
+📧 For support or feedback, contact us at support@cocoderz.com.
 
 ---
 
 **Join us in our coding journey. Let's code, create, and conquer together!**
 
-[![Follow us on Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/cocoders)
-[![Join us on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/company/cocoders)
+[![Follow us on Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/cocoderz)
+[![Join us on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/company/cocoderz)
