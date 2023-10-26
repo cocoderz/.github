@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-wide.jpg" alt="CoCoders Logo Wide" width="500" height="200">
+  <img src="/profile/logo-wide.jpg" alt="CoCoders Logo Wide" width="500" height="200">
 </p>
 
 # Welcome to CoCoders GitHub Organization
