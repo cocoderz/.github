@@ -9,6 +9,7 @@
 CoCoders is a passionate community of coders dedicated to learning, creating, and contributing to open source projects and startups. We believe in collaboration, inclusivity, continuous learning, fun, and personal development.
 
 🌐 **[Website](https://www.cocoders.com)**
+🔗 **[Important Links](https://www.cocoders.com/linkinbio)**
 
 ## Join Us
 
