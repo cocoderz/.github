@@ -35,7 +35,7 @@ CoCoderz is a passionate community of coders dedicated to learning, creating, an
 
 ## Contact Us
 
-📧 For support or feedback, contact us at support@cocoderz.com.
+📧 For support or feedback, contact us at hi@cocoderz.com.
 
 ---
 
