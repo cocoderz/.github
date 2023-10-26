@@ -5,11 +5,10 @@
 # Welcome to CoCoders GitHub Organization
 
 [![GitHub stars](https://img.shields.io/github/stars/CoCoders?style=social)](https://github.com/CoCoders/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CoCoders?style=social)](https://github.com/CoCoders/network)
 
 CoCoders is a passionate community of coders dedicated to learning, creating, and contributing to open source projects and startups. We believe in collaboration, inclusivity, continuous learning, fun, and personal development.
 
-🌐 **[Website](https://www.cocoders.com)** | 📢 **[Community Forum](https://forum.cocoders.com)**
+🌐 **[Website](https://www.cocoders.com)**
 
 ## Join Us
 
